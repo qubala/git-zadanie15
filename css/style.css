@@ -1,0 +1,26 @@
+/* css file */
+
+#skills 
+div
+{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+
+#portfolio 
+div
+{
+    width: 100px; 
+    height: 100px;
+    display: block;
+    border: 2px solid;
+}
+
+input#name {
+    background-color: skyblue; 
+    color: red; 
+    width: 100px; 
+    height: 60px;
+}
